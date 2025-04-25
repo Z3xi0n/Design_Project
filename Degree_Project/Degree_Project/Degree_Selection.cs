@@ -10,27 +10,22 @@ using System.Windows.Forms;
 
 namespace Degree_Project
 {
-    public partial class First_Page : Form
+    public partial class Degree_Selection : Form
     {
-        public First_Page()
+        public Degree_Selection()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Degree_Selection_Load(object sender, EventArgs e)
         {
 
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Degree_Selection f2 = new Degree_Selection();
-            f2.ShowDialog();
+            
+            ShowDialog();
         }
     }
 }
