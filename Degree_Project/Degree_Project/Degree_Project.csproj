@@ -58,6 +58,30 @@
     <Compile Include="Diectory.Designer.cs">
       <DependentUpon>Diectory.cs</DependentUpon>
     </Compile>
+    <Compile Include="Degree_comparison.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Degree_comparison.Designer.cs">
+      <DependentUpon>Degree_comparison.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Degree_Selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Degree_Selection.Designer.cs">
+      <DependentUpon>Degree_Selection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log_In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log_In.Designer.cs">
+      <DependentUpon>Log_In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedual.Designer.cs">
+      <DependentUpon>Schedual.cs</DependentUpon>
+    </Compile>
     <Compile Include="Sign_Up.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,11 +90,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Degree_Selection.resx">
+      <DependentUpon>Degree_Selection.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Diectory.resx">
       <DependentUpon>Diectory.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="First_Page.resx">
       <DependentUpon>First_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Degree_comparison.resx">
+      <DependentUpon>Degree_comparison.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log_In.resx">
+      <DependentUpon>Log_In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedual.resx">
+      <DependentUpon>Schedual.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Sign_Up.resx">
       <DependentUpon>Sign_Up.cs</DependentUpon>

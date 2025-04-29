@@ -2,9 +2,13 @@ C:\Users\12283\source\repos\Degree_Project\Degree_Project\bin\Debug\Degree_Proje
 C:\Users\12283\source\repos\Degree_Project\Degree_Project\bin\Debug\Degree_Project.exe
 C:\Users\12283\source\repos\Degree_Project\Degree_Project\bin\Debug\Degree_Project.pdb
 C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.csproj.AssemblyReference.cache
-C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.Form1.resources
 C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.Properties.Resources.resources
 C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.csproj.GenerateResource.cache
 C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.csproj.CoreCompileInputs.cache
 C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.exe
 C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.pdb
+C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.Degree_Selection.resources
+C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.Diectory.resources
+C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.First_Page.resources
+C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.Sign_Up.resources
+C:\Users\12283\source\repos\Degree_Project\Degree_Project\obj\Debug\Degree_Project.Degree_comparison.resources
